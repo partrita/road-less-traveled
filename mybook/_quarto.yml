@@ -3,15 +3,60 @@ project:
   output-dir: docs
 
 book:
-  title: "mybook"
-  author: "Norah Jones"
+  title: "The Road Less Traveled"
+  author: "M. SCOTT PECK, M.D."
   date: "1/24/2026"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
-    - references.qmd
-
+    - 01-problems-and-pain.qmd
+    - 02-discipline.qmd
+    - 03-the-sins-of-the-father.qmd
+    - 04-problem-solving-and-time.qmd
+    - 05-responsibility.qmd
+    - 06-neuroses-and-character-disorders.qmd
+    - 07-escape-from-freedom.qmd
+    - 08-openness-to-challenge.qmd
+    - 09-withholding-truth.qmd
+    - 10-balancing.qmd
+    - 11-the-healthiness-of-depression.qmd
+    - 12-love-defined.qmd
+    - 13-falling-in-love.qmd
+    - 14-the-myth-of-romantic-love.qmd
+    - 15-more-about-ego-boundaries.qmd
+    - 16-dependency.qmd
+    - 17-cathexis-without-love.qmd
+    - 18-self-sacrifice.qmd
+    - 19-love-is-not-a-feeling.qmd
+    - 20-the-work-of-attention.qmd
+    - 21-the-risk-of-loss.qmd
+    - 22-love.qmd
+    - 23-the-risk-of-independence.qmd
+    - 24-the-risk-of-commitment.qmd
+    - 25-the-risk-of-confrontation.qmd
+    - 26-love-is-disciplined.qmd
+    - 27-love-is-separateness.qmd
+    - 28-love-and-psychotherapy.qmd
+    - 29-world-views-and-religion.qmd
+    - 30-the-religion-of-science.qmd
+    - 31-the-case-of-kathy.qmd
+    - 32-the-case-of-marcia.qmd
+    - 33-the-case-of-theodore.qmd
+    - 34-scientific-tunnel-vision.qmd
+    - 35-the-miracle-of-health.qmd
+    - 36-the-miracle-of-the-unconscious.qmd
+    - 37-the-miracle-of-serendipity.qmd
+    - 38-grace.qmd
+    - 39-the-definition-of-grace.qmd
+    - 40-the-miracle-of-evolution.qmd
+    - 41-the-alpha-and-the-omega.qmd
+    - 42-entropy-and-original-sin.qmd
+    - 43-the-problem-of-evil.qmd
+    - 44-the-evolution-of-consciousness.qmd
+    - 45-the-nature-of-power.qmd
+    - 46-grace-and-mental-illness-the-myth-of-orestes291.qmd
+    - 47-resistance-to-grace.qmd
+    - 48-the-welcoming-of-grace.qmd
+    - 49-afterword.qmd
 bibliography: references.bib
 
 format:
