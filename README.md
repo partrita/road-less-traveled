@@ -1,20 +1,20 @@
 # 아직도 가야 할 길 (The Road Less Traveled) - 한국어 번역
 
-이 저장소는 M. 스콧 펙(M. Scott Peck, M.D.) 박사의 고전 지성서이자 심리학 저서인 **"The Road Less Traveled"**(아직도 가야 할 길)를 한국어로 번역하고 Quarto를 사용하여 웹북 형태로 구축한 프로젝트입니다.
+이 저장소는 M. 스콧 펙(M. Scott Peck, M.D.) 박사의 고전 지성서이자 심리학 저서인 "The Road Less Traveled"(아직도 가야 할 길)를 한국어로 번역하고 Quarto를 사용하여 웹북 형태로 구축한 프로젝트입니다.
 
 ## 📖 도서 정보
-- **원제:** The Road Less Traveled
-- **저자:** M. 스콧 펙 (M. Scott Peck, M.D.)
-- **주요 주제:** 훈련(Discipline), 사랑(Love), 종교와 세계관(Religion & Worldviews), 은총(Grace)
+- 원제: The Road Less Traveled
+- 저자: M. 스콧 펙 (M. Scott Peck, M.D.)
+- 주요 주제: 훈련(Discipline), 사랑(Love), 종교와 세계관(Religion & Worldviews), 은총(Grace)
 
 ## 🌐 웹북 보기
 현재 번역된 내용은 아래 링크에서 확인하실 수 있습니다:
-**[https://partrita.github.io/road-less-traveled/](https://partrita.github.io/road-less-traveled/)**
+[https://partrita.github.io/road-less-traveled/](https://partrita.github.io/road-less-traveled/)
 
 ## 🛠 프로젝트 구조 및 도구
-- **`mybook/`**: Quarto 북 소스 파일 (`.qmd`)이 포함되어 있습니다.
-- **Quarto**: 과학 기술 출판 시스템으로, 마크다운을 기반으로 하여 정적 웹사이트, PDF 등을 생성합니다.
-- **Pixi**: 프로젝트 의존성 관리 도구입니다 (`quarto` 등 설치).
+- `mybook/`: Quarto 북 소스 파일 (`.qmd`)이 포함되어 있습니다.
+- Quarto: 과학 기술 출판 시스템으로, 마크다운을 기반으로 하여 정적 웹사이트, PDF 등을 생성합니다.
+- Pixi: 프로젝트 의존성 관리 도구입니다 (`quarto` 등 설치).
 
 ## 🚀 로컬 실행 방법
 
