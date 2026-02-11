@@ -62,7 +62,7 @@ bibliography: references.bib
 format:
   html:
     theme:
-      - cosmo
+      - flatly
       - brand
     number-sections: false
 
